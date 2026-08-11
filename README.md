@@ -41,6 +41,15 @@ Hi! I'm Alfiya Khan, a Software Testing fresher passionate about finding defects
 - Response validation
 - Postman test scripts
 
+## 🎓 Academic Projects
+
+### 1. AI Yoga & Wellness Coach
+- Developed as an academic project
+- Used Python
+- Used logical database concepts
+- Worked on application logic and database integration
+- Applied problem-solving and programming concepts
+
 ## 🛠️ Skills
 
 Manual Testing | API Testing | SQL | Java | Postman | Jira
