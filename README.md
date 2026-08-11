@@ -25,21 +25,17 @@ Hi! I'm Alfiya Khan, a Software Testing fresher passionate about finding defects
 - Covered positive and negative scenarios
 - Tested validation and error handling
 
-### 3. Dummy Banking Application
-- Customer Login
-- Account Creation
-- Fund Transfer
-- Mini Statement
-- Transaction History
-- Logout
-
-### 4. ParaBank Testing
+### 3. ParaBank Testing
 - Registration testing
 - Login testing
 - Functional test cases
 - Negative test scenarios
+- Automation testing
+- Selenium WebDriver
+- Automated test execution
+- Maven
 
-### 5. API Testing with Postman
+### 4. API Testing with Postman
 - GET, POST, PUT and DELETE requests
 - Status code validation
 - Response validation
