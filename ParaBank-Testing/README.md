@@ -47,3 +47,9 @@ The objective of this project was to automate important banking application func
 ## 👩‍💻 Skills Demonstrated
 
 Java | Selenium WebDriver | TestNG | Maven | Automation Testing | Web Testing | Git | GitHub
+
+👤 Author
+
+Alfiya Khan
+
+Aspiring Software Tester | Manual Testing | API Testing | Postman | SQL
