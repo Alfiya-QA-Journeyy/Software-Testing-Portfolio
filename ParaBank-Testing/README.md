@@ -48,7 +48,7 @@ The objective of this project was to automate important banking application func
 
 Java | Selenium WebDriver | TestNG | Maven | Automation Testing | Web Testing | Git | GitHub
 
-👤 Author
+## 👤 Author
 
 Alfiya Khan
 
