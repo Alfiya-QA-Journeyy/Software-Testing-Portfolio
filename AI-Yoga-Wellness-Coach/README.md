@@ -31,3 +31,9 @@ Academic Project
 ## 👩‍💻 Skills Demonstrated
 
 Python | Database Concepts | Logical Database | Problem Solving | Application Development
+
+## 👤 Author
+
+Alfiya Khan
+
+Aspiring Software Tester | Manual Testing | API Testing | Postman | SQL
