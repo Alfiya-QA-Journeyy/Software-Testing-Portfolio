@@ -80,3 +80,9 @@ Each defect was documented with:
 ## 👩‍💻 Skills Demonstrated
 
 Manual Testing | Test Case Design | Test Execution | Bug Reporting | Functional Testing | Validation Testing | SDLC | STLC
+
+## 👤 Author
+
+Alfiya Khan
+
+Aspiring Software Tester | Manual Testing | API Testing | Postman | SQL
