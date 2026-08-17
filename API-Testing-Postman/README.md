@@ -55,3 +55,9 @@ Postman test scripts were used to validate API responses automatically.
 ## 👩‍💻 Skills Demonstrated
 
 API Testing | Postman | REST API | HTTP Methods | JSON | JavaScript | API Test Automation
+
+## 👤 Author
+
+Alfiya Khan
+
+Aspiring Software Tester | Manual Testing | API Testing | Postman | SQL
